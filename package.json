@@ -16,10 +16,12 @@
     "eject": "react-native-scripts eject",
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
-    "test": "jest"
+    "test": "jest",
+    "postinstall": "remotedev-debugger — hostname localhost — port 5678 — injectserver"
   },
-  "jest": {
-    "preset": "jest-expo"
+  "remotedev": {
+  "hostname": "localhost",
+  "port": 5678
   },
   "dependencies": {
     "expo": "^27.0.1",
