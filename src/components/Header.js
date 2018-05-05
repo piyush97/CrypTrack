@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <View style={headerContainer}>
             <Text style={header}>
-                CrypTrack
+                CrypTrack 
             </Text>
         </View>
     )
