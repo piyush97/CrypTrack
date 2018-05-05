@@ -37,6 +37,15 @@ export const apiBaseURL='https://api.coinmarketcap.com';
 ````
 ---------
 
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
+
+![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
+
+------
 ## Authors
 
 * **Piyush Mehta** - [Piyush97](https://github.com/piyush97)
