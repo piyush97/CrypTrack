@@ -102,10 +102,10 @@ const CoinCard = ({ symbol, coin_name, price_usd, percent_change_24h, percent_ch
 
             <View style={statisticsContainer}>
 
-                <Text>24h:
+                <Text>24 Hours:
                      <Text style={percent_change_24h < 0 ? percentChangeMinus : percentChangePlus }> {percent_change_24h} % </Text>
                 </Text>
-                <Text>7d:
+                <Text>7 Days:
                     <Text style={percent_change_7d < 0 ? percentChangeMinus : percentChangePlus }> {percent_change_7d} % </Text>
                 </Text>
 
