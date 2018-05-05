@@ -9,10 +9,33 @@ _________
 
 ____________
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+----------
+# Prerequisites:
+---------
+* NodeJS
+* NPM or Yarn
+* Bash command line/terminal. By default Mac and Linux has it installed. If you’re on Windows — don’t worry — follow this guide on how to install bash on Windows. Windows users — We won’t leave you behind! 😊
+* Text Editor/IDE
+* Xcode (iOS) — That’s all you need for the initial setup! — Video Setup
+* Android Studio (Android) — Watch this tutorial to properly setup the android simulator!
+* Optional: Expo— recommended!
+
+---------
 
 # Tech Used:
 * React Native
-*
+* Redux
+* react-redux
+* Expo
+* Axios
+* redux-thunk
+-----
+##### Api Call
+
+```javascript
+export const apiBaseURL='https://api.coinmarketcap.com';
+````
+---------
 
 ## Authors
 
@@ -22,3 +45,4 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/piyush97/CrypTrack/blob/master/LICENSE) file for details
+--------
