@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 ---------
 * NodeJS
 * NPM or Yarn
-* Bash command line/terminal. By default Mac and Linux has it installed. If you’re on Windows — don’t worry — follow this guide on how to install bash on Windows. Windows users — We won’t leave you behind! 😊
+* Bash command line/terminal.
 * Text Editor/IDE
 * Xcode (iOS) — That’s all you need for the initial setup! — Video Setup
 * Android Studio (Android) — Watch this tutorial to properly setup the android simulator!
