@@ -11,6 +11,10 @@
     "remotedev-rn-debugger": "^0.8.3"
   },
   "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
     "test": "jest",
     "postinstall": "remotedev-debugger — hostname localhost — port 5678 — injectserver"
   },

@@ -7,7 +7,7 @@
       "publishManifestPath": "ios/cryptracker/Supporting/shell-app-manifest.json"
     },
     "android": {
-      "package": "CrypTrack"
+      "package": "com.CrypTrack.Piyush"
     },
     "name": "CrypTracker",
     "slug": "cryptracker",
