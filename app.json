@@ -1,22 +1,6 @@
+
 {
   "expo": {
-    "sdkVersion": "27.0.0",
-    "ios": {
-      "bundleIdentifier": "CrypTrack",
-      "publishBundlePath": "ios/cryptracker/Supporting/shell-app.bundle",
-      "publishManifestPath": "ios/cryptracker/Supporting/shell-app-manifest.json"
-    },
-    "android": {
-      "package": "com.CrypTrack.Piyush"
-    },
-    "name": "CrypTracker",
-    "slug": "cryptracker",
-    "version": "0.1.0",
-    "isDetached": true,
-    "detach": {
-      "scheme": "exp590b983886134d11841ecced8de6bcc0",
-      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.5.4-sdk27.0.0-e68cfb94-9b7e-4510-aab9-8f375e187b0b.tar.gz",
-      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.5.1-sdk27.0.0-bb187a9e-e43b-409f-8a5e-c16afa958cca.tar.gz"
-    }
+    "sdkVersion": "27.0.0"
   }
 }
