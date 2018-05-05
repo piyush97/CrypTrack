@@ -55,3 +55,8 @@ export const apiBaseURL='https://api.coinmarketcap.com';
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/piyush97/CrypTrack/blob/master/LICENSE) file for details
 --------
+
+
+
+<img src="http://www.youroam.com/wp-content/uploads/2014/02/App-Store-Badge-Coming-Soon1.png" style="width:120px"/>
+<img src="https://s3.amazonaws.com/static.clcebooks.com/_CLCeBooks/images/sections/playstore-soon.png" style="width:120px"/>
