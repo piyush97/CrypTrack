@@ -1,5 +1,5 @@
 # CrypTracker
-Track your Crypto price on iOS or Android.
+## Track your Crypto price on iOS or Android.
 
 ![demo static](https://i.imgur.com/tQqHo2f.png)
 
