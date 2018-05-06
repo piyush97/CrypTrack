@@ -1,3 +1,4 @@
+theme: aigarsdz/brume
 
 title: CrypTrack
 author: Piyush Mehta
@@ -6,4 +7,5 @@ description: It's simple. It's easy to use. It's a React-Native App.
 highlighter: null
 permalink: /:title
 
-theme: aigarsdz/brume
+color_scheme: avocado
+
