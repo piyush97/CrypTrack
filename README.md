@@ -16,9 +16,9 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 * NPM or Yarn
 * Bash command line/terminal.
 * Text Editor/IDE
-* Xcode (iOS) — That’s all you need for the initial setup! — Video Setup
-* Android Studio (Android) — Watch this tutorial to properly setup the android simulator!
-* Optional: Expo— recommended!
+* Xcode (iOS) 
+* Android Studio (Android)
+* Expo
 
 ---------
 
