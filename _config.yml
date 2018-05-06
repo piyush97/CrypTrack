@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-
+show_downloads: true
 title: CrypTrack
 author: Piyush Mehta
 description: It's simple. It's easy to use. It's a React-Native App.
