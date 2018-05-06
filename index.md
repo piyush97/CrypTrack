@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# CrypTracker
+## Track your Crypto price on iOS or Android.
 
-You can use the [editor on GitHub](https://github.com/piyush97/CrypTrack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![demo static](https://i.imgur.com/tQqHo2f.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_________
 
-### Markdown
+![demo gif](https://media.giphy.com/media/l1J9LnCuza1P17wIw/giphy.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+____________
+This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+----------
+# Prerequisites:
+---------
+* NodeJS
+* NPM or Yarn
+* Bash command line/terminal.
+* Text Editor/IDE
+* Xcode (iOS) — That’s all you need for the initial setup! — Video Setup
+* Android Studio (Android) — Watch this tutorial to properly setup the android simulator!
+* Optional: Expo— recommended!
 
-```markdown
-Syntax highlighted code block
+---------
 
-# Header 1
-## Header 2
-### Header 3
+# Tech Used:
+* React Native
+* Redux
+* react-redux
+* Expo
+* Axios
+* redux-thunk
+-----
+##### Api Call
 
-- Bulleted
-- List
+```javascript
+export const apiBaseURL='https://api.coinmarketcap.com';
+````
+---------
 
-1. Numbered
-2. List
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
-**Bold** and _Italic_ and `Code` text
+![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
 
-[Link](url) and ![Image](src)
-```
+![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
 
-### Jekyll Themes
+------
+## Authors
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/piyush97/CrypTrack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* **Piyush Mehta** - [Piyush97](https://github.com/piyush97)
 
-### Support or Contact
+--------
+## License
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/piyush97/CrypTrack/blob/master/LICENSE) file for details
+--------
+
+
+
+<img src="http://www.youroam.com/wp-content/uploads/2014/02/App-Store-Badge-Coming-Soon1.png" style="width:120px"/>
+<img src="https://s3.amazonaws.com/static.clcebooks.com/_CLCeBooks/images/sections/playstore-soon.png" style="width:120px"/>
