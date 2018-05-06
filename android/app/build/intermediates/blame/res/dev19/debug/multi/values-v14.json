@@ -1,0 +1,129 @@
+[
+    {
+        "outputFile": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/incremental/mergeDev19DebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/piyushmehta/.android/build-cache/3b20d7b4b112a0013bc236f071e77b41dd08984f/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 70,
+                    "endOffset": 548
+                },
+                "from": {
+                    "file": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 70,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 553,
+                    "endColumn": 82,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 82,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1041
+                },
+                "from": {
+                    "file": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1046,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1463
+                },
+                "from": {
+                    "file": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1312
+                    }
+                }
+            }
+        ]
+    }
+]

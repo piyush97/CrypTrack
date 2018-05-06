@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

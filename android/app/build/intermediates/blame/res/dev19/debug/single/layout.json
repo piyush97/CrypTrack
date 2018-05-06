@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/3883ea7d9be855af7d6d6dc88600971e321dc860/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/expo_media_controller.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/9685acfe1d15e75c70d82fd2f954f948f9798b83/output/res/layout/expo_media_controller.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/21c01580316e1b53befd2a81a815d43ac5cd2f27/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/loading_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/9685acfe1d15e75c70d82fd2f954f948f9798b83/output/res/layout/loading_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/exponent_dev_activity.xml",
+        "source": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/src/main/res/layout/exponent_dev_activity.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/dev_loading_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/dbb33c378771a7f72d92930c84ad6fcd44c719ea/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/3883ea7d9be855af7d6d6dc88600971e321dc860/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/6690f164dc51f980a5597ef85e0fbecbe75c5ecb/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/3883ea7d9be855af7d6d6dc88600971e321dc860/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/error_activity.xml",
+        "source": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/src/main/res/layout/error_activity.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/redbox_item_title.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/dbb33c378771a7f72d92930c84ad6fcd44c719ea/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/redbox_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/dbb33c378771a7f72d92930c84ad6fcd44c719ea/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_action.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/6690f164dc51f980a5597ef85e0fbecbe75c5ecb/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/amu_webview.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/efc2a6197b3bb96ef684bd8874a12ca277c9dd85/output/res/layout/amu_webview.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/21c01580316e1b53befd2a81a815d43ac5cd2f27/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/21c01580316e1b53befd2a81a815d43ac5cd2f27/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/crop_image_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/0fac8c5ac466f7e1ea833cf831b2555b6735dfb0/output/res/layout/crop_image_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/surface_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/2d526f9b1850e0d1fd24756cc7d6ae2454c693b3/output/res/layout/surface_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/dbb33c378771a7f72d92930c84ad6fcd44c719ea/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/exo_simple_player_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/fed9090c7211d3ac98707a0b49e26c77fc424368/output/res/layout/exo_simple_player_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/21c01580316e1b53befd2a81a815d43ac5cd2f27/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/6690f164dc51f980a5597ef85e0fbecbe75c5ecb/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_search_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/amu_info_window.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/efc2a6197b3bb96ef684bd8874a12ca277c9dd85/output/res/layout/amu_info_window.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/fps_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/dbb33c378771a7f72d92930c84ad6fcd44c719ea/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/6690f164dc51f980a5597ef85e0fbecbe75c5ecb/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/6690f164dc51f980a5597ef85e0fbecbe75c5ecb/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/exo_playback_control_view.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/fed9090c7211d3ac98707a0b49e26c77fc424368/output/res/layout/exo_playback_control_view.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/oauth_webview_activity.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/9685acfe1d15e75c70d82fd2f954f948f9798b83/output/res/layout/oauth_webview_activity.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/tooltip.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/exponent_check_box.xml",
+        "source": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/src/main/res/layout/exponent_check_box.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/payment_form_fragment_two.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/9685acfe1d15e75c70d82fd2f954f948f9798b83/output/res/layout/payment_form_fragment_two.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/exponent_button.xml",
+        "source": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/src/main/res/layout/exponent_button.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_media.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/234593243964af2d1ba7d30fbb61dfa7ed2a5638/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/amu_text_bubble.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/efc2a6197b3bb96ef684bd8874a12ca277c9dd85/output/res/layout/amu_text_bubble.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_media_action.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/3883ea7d9be855af7d6d6dc88600971e321dc860/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_shell_app.xml",
+        "source": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/src/main/res/layout/notification_shell_app.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/21c01580316e1b53befd2a81a815d43ac5cd2f27/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/21c01580316e1b53befd2a81a815d43ac5cd2f27/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification.xml",
+        "source": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/src/main/res/layout/notification.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/crop_image_activity.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/0fac8c5ac466f7e1ea833cf831b2555b6735dfb0/output/res/layout/crop_image_activity.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/d61d5cb3c7d7bb7449df26382785f943287f04de/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/payment_form_fragment.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/9685acfe1d15e75c70d82fd2f954f948f9798b83/output/res/layout/payment_form_fragment.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/layout/select_dialog_singlechoice_material.xml"
+    }
+]

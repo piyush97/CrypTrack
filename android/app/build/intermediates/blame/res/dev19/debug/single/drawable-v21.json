@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/6690f164dc51f980a5597ef85e0fbecbe75c5ecb/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/piyushmehta/react-native-redux-crypto-tracker/android/app/build/intermediates/res/merged/dev19/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/piyushmehta/.android/build-cache/25e7fdcd0cdf9a52de02d7da303a7d7c8b854525/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
