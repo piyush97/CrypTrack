@@ -12,13 +12,15 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 ----------
 # Prerequisites:
 ---------
+
+
 * NodeJS
 * NPM or Yarn
 * Bash command line/terminal.
 * Text Editor/IDE
-* Xcode (iOS) — That’s all you need for the initial setup! — Video Setup
-* Android Studio (Android) — Watch this tutorial to properly setup the android simulator!
-* Optional: Expo— recommended!
+* Xcode (iOS) 
+* Android Studio (Android)
+* Expo
 
 ---------
 
@@ -29,12 +31,14 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 * Expo
 * Axios
 * redux-thunk
+
 -----
 ##### Api Call
 
 ```javascript
 export const apiBaseURL='https://api.coinmarketcap.com';
 ````
+
 ---------
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
@@ -54,6 +58,7 @@ export const apiBaseURL='https://api.coinmarketcap.com';
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/piyush97/CrypTrack/blob/master/LICENSE) file for details
+
 --------
 
 
