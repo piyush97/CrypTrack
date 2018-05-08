@@ -12,6 +12,8 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 ----------
 # Prerequisites:
 ---------
+
+
 * NodeJS
 * NPM or Yarn
 * Bash command line/terminal.
@@ -29,12 +31,14 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 * Expo
 * Axios
 * redux-thunk
+
 -----
 ##### Api Call
 
 ```javascript
 export const apiBaseURL='https://api.coinmarketcap.com';
 ````
+
 ---------
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
@@ -54,6 +58,7 @@ export const apiBaseURL='https://api.coinmarketcap.com';
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/piyush97/CrypTrack/blob/master/LICENSE) file for details
+
 --------
 
 
