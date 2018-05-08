@@ -8,9 +8,13 @@ _________
 ![demo gif](https://media.giphy.com/media/l1J9LnCuza1P17wIw/giphy.gif)
 
 ____________
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+
 ----------
+
 # Prerequisites:
+
 ---------
 
 
